@@ -19,7 +19,7 @@ A list of technologies used within the project:
 
 * [Python](https://www.python.org): Version 3.11
 * [Django](https://www.djangoproject.com): Version 5.0.2
-* [Djando Rest Framework](https://www.django-rest-framework.org): Version 3.0.5
+* [Django Rest Framework](https://www.django-rest-framework.org): Version 3.0.5
 
 ## Installation
 
